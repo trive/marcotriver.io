@@ -1,0 +1,23 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(53, 53, 53);
+    display: flex;
+}
+
+/* Content styles */
+#content {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+/* Logo styles */
+#logo {
+    margin-right: 20px; /* Space between logo and email */
+}
+
